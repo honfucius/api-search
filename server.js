@@ -1,5 +1,5 @@
 const express = require('express');
-const google = require('google-this');
+const google = require('googlethis');
 const axios = require('axios');
 const { htmlToText } = require('html-to-text');
 
